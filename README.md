@@ -1,5 +1,4 @@
-## This version is an old version of NSMusicS and has stopped updating. Please move to NSMusicS to refactor the [Electron version](https://github.com/Super-Badmen-Viper/NSMusicS)
-
+# This version is an old version of [NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) and has stopped updating, so it has been migrated from NSMusicS to here. Please move to [NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS)
 ![Frame](https://github.com/Super-Badmen-Viper/NSMusicS/assets/83256054/97cd54e8-e0e4-4671-8a93-93cc94f74a91)
 <div style="display: flex; align-items: center;">
     <div>
