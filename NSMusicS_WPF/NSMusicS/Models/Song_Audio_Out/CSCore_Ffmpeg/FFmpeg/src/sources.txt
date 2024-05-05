@@ -1,0 +1,3 @@
+Source can be found at:
+https://github.com/filoe/cscore/tree/master/NSMusicS.Models.Song_Audio_Out.CSCore_Ffmpeg
+https://github.com/filoe/cscore/tree/master/NSMusicS.Models.Song_Audio_Out.CSCore_Ffmpeg/FFmpeg/src
